@@ -3,6 +3,13 @@
 <h1 align="center">Hi 👋, I'm Pradelson</h1>
 <h3 align="center">A passionate developer from Dominican Republic</h3>
 
+## My Journey in the World of Programming 🚀
+
+Ever since I was young, I've always had an innate curiosity for unraveling how things worked in the digital world that surrounds us. Some classmates from school encouraged and motivated me to study programming. As I grew up, my curiosity transformed into a burning passion for programming and technology.
+
+Thank you for being a part of my journey in the programming world. Code continues to be my canvas, and the world, my technological oyster to explore! 💻🌟
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradelson95&label=Profile%20views&color=0e75b6&style=flat" alt="pradelson95" /> </p>
 
 - 🌱 I’m currently learning **Pytest, Mysql, docker**
