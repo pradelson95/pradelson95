@@ -3,11 +3,15 @@
 <h1 align="center">Hi 👋, I'm Pradelson</h1>
 <h3 align="center">A passionate developer from Dominican Republic</h3>
 
-## My Journey in the World of Programming 🚀
+## My Brief Story 🚀
 
-Ever since I was young, I've always had an innate curiosity for unraveling how things worked in the digital world that surrounds us. Some classmates from school encouraged and motivated me to study programming. As I grew up, my curiosity transformed into a burning passion for programming and technology.
+Hello! I'm pradelson, a passionate software developer. My journey in the programming world began when some classmates in school motivated me to study programming. Several days later, I was thinking about the amazing things I could create, so I started diving deeper into it.
 
-Thank you for being a part of my journey in the programming world. Code continues to be my canvas, and the world, my technological oyster to explore! 💻🌟
+Since then, I've been immersed in the exciting world of technology. I've had the opportunity to work on various projects, from web applications to desktop applications. Each challenge has allowed me to learn and grow as a developer.
+
+Let's create amazing things together!
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradelson95&label=Profile%20views&color=0e75b6&style=flat" alt="pradelson95" /> </p>
